@@ -7,3 +7,4 @@ new test for git rebase in branch bugfix2
 new git rebase test in branch dev
 add new dev
 fix new bug in bugfix3
+fix new bug in bugfix4
